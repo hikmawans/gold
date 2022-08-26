@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "binar_shop",
+    "password": "12345ab",
+    "database": "binar_shop_online",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "binar_shop",
+    "password": "12345ab",
+    "database": "binar_shop_online",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "binar_shop",
+    "password": "12345ab",
+    "database": "binar_shop_online",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
